@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/c2398ee1-eb38-42e6-8413-88e2f222c036
+
 # Turquoisse Learning Platform
 
 Turquoisse, modern ve interaktif bir online eğitim platformudur. Platform, teknoloji ve yazılım geliştirme alanlarında kapsamlı kurslar sunmaktadır.
@@ -7,6 +10,8 @@ Turquoisse, modern ve interaktif bir online eğitim platformudur. Platform, tekn
 - **Dinamik Kurs Kataloğu**: Frontend, Backend, Cloud, DevOps ve Security kategorilerinde zengin içerik
 - **Arama Fonksiyonu**: Gelişmiş arama özelliği ile içeriklere hızlı erişim
 - **Responsive Tasarım**: Her cihazda optimum kullanıcı deneyimi
+
+
 - **Modern UI/UX**: Material-UI ile geliştirilmiş çağdaş arayüz
 - **İnteraktif İçerik**: Video, metin ve uygulamalı öğrenme materyalleri
 
